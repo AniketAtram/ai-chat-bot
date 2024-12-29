@@ -1,8 +1,10 @@
-
-
 const ChatBotStart = () => {
   return (
-    <div>ChatBotStart</div>
+    <div className="start-page-div">
+      <button className="start-page-button">
+        Chat AI
+      </button>
+    </div>
   )
 }
 
