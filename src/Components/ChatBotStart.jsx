@@ -1,3 +1,4 @@
+import './ChatBotStart.css'
 const ChatBotStart = () => {
   return (
     <div className="start-page-div">
